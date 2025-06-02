@@ -4,8 +4,8 @@
 
 **Corrado Cali'(1,2), Thomas K. Berger (1), Michele Pignatelli (1,3), Alan Carleton (3), Henry Markram (1) and Michele Giugliano (1)**
 
-1 Laboratory of Neural Microcircuitry, Brain Mind Institute, Ecole Polytechnique Federale de Lausanne (EPFL) 1015, Switzerland
-2 Department of Electronics, Polytechnic of Turin, 10129 Turin, Italy
+1 Laboratory of Neural Microcircuitry, Brain Mind Institute, Ecole Polytechnique Federale de Lausanne (EPFL) 1015, Switzerland  
+2 Department of Electronics, Polytechnic of Turin, 10129 Turin, Italy  
 3 Flavour Perception Group, Brain Mind Institute, Ecole Polytechnique Federale de Lausanne (EPFL) 1015, Switzerland
 
 Corresponding author: Michele Giugliano, mgiugliano@gmail.com,
